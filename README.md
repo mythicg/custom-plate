@@ -14,7 +14,7 @@ This is my official custom plate script! This is a basic script that allows you 
 ### How to get support:
 - Join my [Discord](https://discord.gg/EqEcKzNkDB)
 - Create a [GitHub Issue](https://github.com/AstraWrld/custom-plate/issues)
-- Commont on [Forum Post]()
+- Commont on [Forum Post](https://forum.cfx.re/t/custom-plates/4818036)
 ---
 
 ### Credits:
